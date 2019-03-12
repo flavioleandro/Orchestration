@@ -1,2 +1,1 @@
-# Orchestration
-Orchestration
+# Configuration Management
